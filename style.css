@@ -1,0 +1,74 @@
+*{margin: 0;padding:0;outline:0;}
+body{}
+h1{text-align: center;
+	font-size: 2.5em;
+    color: white;
+    text-transform:normal;
+    letter-spacing: 10px;
+    padding-top: 150px;
+	font-family: lato}
+#demo{text-align: center;
+	padding-top: 70px;
+	color:#FC4C4E;
+	font-size: 50px;
+	font-family:K2D;
+	    
+}
+
+/*
+.stars{ border-radius: 50%;
+    background: red;
+    
+    position: fixed;  
+    width: 30px;
+    height: 30px;
+    margin-top: 50px;
+    animation-name: twinkle;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+#red{left: 5%;animation-duration: 2s}
+#green{left: 10%;background: green;animation-duration: 2.1s;animation-timing-function: linear;}
+#blue{left: 14%;background: blue;animation-duration: 3s;animation-timing-function: ease-out;}
+#yellow{left: 15%;background: yellow;animation-duration: 1s;animation-timing-function: linear}
+#ball-5{left: 18%;background: gray;animation-duration: 3.3s;animation-timing-function: ease-out}
+#ball-6{left: 20%;background:purple;animation-duration: 0.9s;animation-timing-function: linear}
+#ball-7{left: 25%;background: #E6ADD0;animation-duration: 3.9s;animation-timing-function: linear}
+#ball-8{left: 30%;background: #F98441;animation-duration: 2.5s;animation-timing-function: ease-out}
+#ball-9{left: 35%;background: #F39D36;animation-duration: 2.9s;animation-timing-function: linear}
+#ball-10{left: 40%;background: #246D52;animation-duration: 3.5s;animation-timing-function: ease-out}
+#ball-11{left: 45%;background: #99B998;animation-duration: 1.9s;animation-timing-function: linear}
+#ball-12{left: 50%;background: #6CAEE0;animation-duration: 2.2s;animation-timing-function: ease-in;}
+#ball-13{left: 55%;background: #0B2242;animation-duration: 1.1s;animation-timing-function: linear}
+#ball-14{left: 60%;background: red;animation-duration: 2.5s;animation-timing-function: linear}
+#ball-15{left: 65%;background: yellow;animation-duration: 2.9s;animation-timing-function: linear}
+#ball-16{left: 70%;background: purple;animation-duration: 0.5s;animation-timing-function: linear}
+#ball-17{left: 75%;background: blue;animation-duration: 3s;animation-timing-function: ease-in-out;}
+#ball-18{left: 80%;background:#E6ADD0;animation-duration: 2.3s;animation-timing-function: ease}
+#ball-19{left: 85%;background:black;animation-duration: 3.3s;animation-timing-function: linear}
+#ball-20{left: 88%;background:#6CAEE0;animation-duration: 2.3s;animation-timing-function: ease-out;}
+#ball-21{left: 92%;background:#F39D36;animation-duration: 1.3s;animation-timing-function: linear}
+#ball-22{left: 96%;background:green;animation-duration: 2.9s;animation-timing-function: ease;}
+#ball-23{left: 100%;background:#E6ADD0;animation-duration: 0.3s;animation-timing-function: linear}*/
+input[type="text"]{padding:20px;position:relative;left:440px;margin-top:100px;width:350px;border-radius:10px}
+input[type="submit"]{padding:20px;position:relative;left:450px;background:#4CAF50;width:150px;color:white;font-size:13px;
+border-radius:10px;transition:0.8s;border:none}
+input[type="submit"]:hover{opacity:1;background:#4BA4E8}
+
+
+/*
+#red{background: red;
+}
+#green{background: green;}
+#blue{background: blue;}
+#yellow{background: yellow;}
+
+@keyframes twinkle{
+	0%{
+		top:0px;
+	}
+	50%{transform: scale(0.3);opacity: 0.7}
+	100%{top:600px;}
+};*/
+
+
